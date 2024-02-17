@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on learning new things!
+- 🌱 I’m currently learning HTML, CSS, Java, JS, Git, Python!
+- 👯 I’m looking to collaborate on anything and everything!
+- 📫 How to reach me: niksviatkin@gmail.com
+
+
+
 <!--
 **niksviatkin/niksviatkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
