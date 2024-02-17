@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on learning new things!
 - 🌱 I’m currently learning HTML, CSS, Java, JS, Git, Python!
 - 👯 I’m looking to collaborate on anything and everything!
-- 📫 How to reach me: niksviatkin@gmail.com
-
+- 📫 How to reach me: 43711610+niksviatkin@users.noreply.github.com
 
 
 <!--
